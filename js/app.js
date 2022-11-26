@@ -248,7 +248,7 @@
         return !item.completed;
       });
     var len = items.length;
-    var text = [len,' item',$.pluralization( len ),' left'].join('');
+    var text = ['Задач',$.pluralization( len ),' осталось: ', len].join('');
     this.$total.innerHTML = text;
   };
 
