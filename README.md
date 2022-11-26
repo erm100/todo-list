@@ -1,3 +1,3 @@
-# A simple to do list in a pure vanilla javascript
+# TODO LIST
 
-[DEMO PAGE HERE, I hope you like :)](http://expalmer.github.io/todo-list-vanilla-js/)
+[Добро пожаловать:)](https://erm100.github.io/todo-list/)
